@@ -1,4 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoons0717&count_bg=%23D9D4D5&title_bg=%237DB0E7&icon=&icon_color=%23818181&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 ### Hi there 👋  

@@ -1,4 +1,4 @@
-<img src="./assets/avatar.svg" width="128" align="left" alt="yoons pixel avatar">
+<img src="./assets/avatar-v2.svg" width="128" align="left" alt="yoons pixel avatar">
 
 ### yoons0717
 FrontEnd Developer · South Korea
@@ -9,4 +9,4 @@ FrontEnd Developer · South Korea
 <img src="./assets/heart.svg" width="16"> &nbsp;**Interests** — Developer productivity tools, working alongside AI<br>
 <img src="./assets/note.svg" width="16"> &nbsp;**Notes** — What I learn, written down on my [blog](https://yoons0717.github.io)
 
-<img src="./assets/character.svg" width="100%" alt="">
+<img src="./assets/character-v2.svg" width="100%" alt="">

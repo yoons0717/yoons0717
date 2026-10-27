@@ -4,7 +4,7 @@
 FrontEnd Developer · South Korea
 
 <br clear="left">
-
+<br>
 <img src="./assets/terminal.svg" width="16"> &nbsp;**Stack** — TypeScript · Next.js · React · Zustand · Tailwind · Jest<br>
 <img src="./assets/heart.svg" width="16"> &nbsp;**Interests** — Developer productivity tools, working alongside AI<br>
 <img src="./assets/note.svg" width="16"> &nbsp;**Notes** — What I learn, written down on my [blog](https://yoons0717.github.io)
